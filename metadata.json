@@ -1,0 +1,6 @@
+{
+  "name": "WrenchBook",
+  "description": "Mobile mechanic labor rate lookup, vehicle repair estimator, and step-by-step repair instructions for every vehicle on the market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
